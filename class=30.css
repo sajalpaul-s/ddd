@@ -1,0 +1,46 @@
+.primary-section{
+    background-color:#f9f9ff;
+    
+}
+.what span{
+    color: tomato;
+}
+.what li{
+    list-style: none;
+}
+.java{
+    background-color: whitesmoke;
+    padding: 40px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(0, 0, 0, 0.3);
+}
+.java h2{
+    background-color: floralwhite;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: auto;
+    padding: 20px;
+    transition: .5s;
+}
+.java h2:hover{
+    background-color: forestgreen;
+}
+.button{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(0, 0, 0, 0.2); 
+}
+.my-work img{
+    width: 100px;
+    margin-top: -30px;
+    margin-right:10px;
+
+}
+.my-work a{
+    width: 100px;
+    margin: auto;  
+}
+.foter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
